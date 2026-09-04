@@ -1,31 +1,41 @@
 about:
-  description: ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
+  description:
+  |
+    ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
   license: MIT
   homepage: 
   head: 72678b5
   archived: false
   latestVersion: v0.81.1
-  collectedAt: 2026-09-04T04:24:45Z
+  collectedAt: 2026-09-04T19:32:20Z
 timeline:
   created: 2020-07-22
   lastCommit: 2026-08-27
   lastRelease: 2026-08-27
 popularity:
-  star: 1929
+  star: 1931
   watcher: 37
   fork: 198
   release: 21
   contributor: 12
-  pullRequest: 6
+  pullRequest: 32
   issue: 71
 language:
   Shell: 217924
   Roff: 5530
   Dockerfile: 883
-totalLine: 224337
+totalBytes: 224337
 recent:
   last30d:
     since: 2026-08-05
+    release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 2
+  last60d:
+    since: 2026-07-06
     release: 1
     mergedPR: 0
     openPR: 0
@@ -56,3 +66,21 @@ recent:
     closedIssue: 10
     openIssue: 2
     commit: 12
+  last720d:
+    since: 2024-09-14
+    release: 8
+    mergedPR: 8
+    openPR: 1
+    closedIssue: 21
+    openIssue: 2
+    commit: 28
+total:
+  release: 21
+  mergedPR: 26
+  openPR: 1
+  closedIssue: 69
+  openIssue: 2
+  commit: 172
+---
+---
+
