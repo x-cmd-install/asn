@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/nitefood/asn/releases/378176907",
-  "assets_url": "https://api.github.com/repos/nitefood/asn/releases/378176907/assets",
-  "upload_url": "https://uploads.github.com/repos/nitefood/asn/releases/378176907/assets{?name,label}",
-  "html_url": "https://github.com/nitefood/asn/releases/tag/v0.81.1",
-  "id": 378176907,
+  "url": "https://api.github.com/repos/nitefood/asn/releases/386352158",
+  "assets_url": "https://api.github.com/repos/nitefood/asn/releases/386352158/assets",
+  "upload_url": "https://uploads.github.com/repos/nitefood/asn/releases/386352158/assets{?name,label}",
+  "html_url": "https://github.com/nitefood/asn/releases/tag/v0.82.0",
+  "id": 386352158,
   "author": {
     "login": "nitefood",
     "id": 24555810,
@@ -25,20 +25,32 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOEMv-9c4WioWL",
-  "tag_name": "v0.81.1",
+  "node_id": "RE_kwDOEMv-9c4XB0Qe",
+  "tag_name": "v0.82.0",
   "target_commitish": "master",
-  "name": "v0.81.1",
+  "name": "v0.82.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-08-27T23:22:30Z",
-  "updated_at": "2026-08-27T23:23:12Z",
-  "published_at": "2026-08-27T23:23:12Z",
+  "created_at": "2026-09-10T14:22:13Z",
+  "updated_at": "2026-09-10T14:22:50Z",
+  "published_at": "2026-09-10T14:22:50Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/nitefood/asn/tarball/v0.81.1",
-  "zipball_url": "https://api.github.com/repos/nitefood/asn/zipball/v0.81.1",
-  "body": "**Full Changelog**: https://github.com/nitefood/asn/compare/v0.81.0...v0.81.1"
+  "tarball_url": "https://api.github.com/repos/nitefood/asn/tarball/v0.82.0",
+  "zipball_url": "https://api.github.com/repos/nitefood/asn/zipball/v0.82.0",
+  "body": "**Full Changelog**: https://github.com/nitefood/asn/compare/v0.81.1...v0.82.0",
+  "reactions": {
+    "url": "https://api.github.com/repos/nitefood/asn/releases/386352158/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
