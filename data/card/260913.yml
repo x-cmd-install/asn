@@ -115,4 +115,3 @@ total:
 ---
 
 ---
-{"id":386352158,"author":{"login":"nitefood","id":24555810,"node_id":"MDQ6VXNlcjI0NTU1ODEw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOEMv-9c4XB0Qe","tag_name":"v0.82.0","target_commitish":"master","name":"v0.82.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-10T14:22:13Z","updated_at":"2026-09-10T14:22:50Z","published_at":"2026-09-10T14:22:50Z","assets":[],"body":"**Full Changelog**: https://github.com/nitefood/asn/compare/v0.81.1...v0.82.0","reactions":{"total_count":4,"+1":4,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
