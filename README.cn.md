@@ -4,7 +4,7 @@
 
 ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
 
-[![x-cmd/install — asn Code Quality Monitoring Repo Card](https://repo.x-cmd.io/asn.svg?lang=zh)](https://x-cmd.com/install/asn)
+[![x-cmd/install — asn Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/asn.svg?lang=zh)](https://x-cmd.com/install/asn)
 
 ## 安装
 
@@ -31,26 +31,26 @@ x install asn
 ## 发布
 
 - **最新版本**: `v0.83.0` (2026-09-16)
-- **最近提交**: 2026-09-16
+- **最近提交**: 2026-09-22
 
 ## 流行度
 
-- **Star**: 1,936 · **Fork**: 198 · **开放 issue**: 72 · **贡献者**: 12
+- **Star**: 1,935 · **Fork**: 198 · **开放 issue**: 73 · **贡献者**: 12
 
 ## 累计统计
 
-- **发布数**: 23 · **已合并 PR**: 27 · **开放 PR**: 1 · **已关闭 issue**: 70 · **开放 issue**: 2 · **提交数**: 174
+- **发布数**: 23 · **已合并 PR**: 27 · **开放 PR**: 1 · **已关闭 issue**: 70 · **开放 issue**: 3 · **提交数**: 175
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 1 | 0 | 2 | 0 | 4 |
-| last60d | 2026-07-24 | 3 | 1 | 0 | 2 | 0 | 4 |
-| 90d | 2026-06-24 | 3 | 1 | 0 | 2 | 0 | 4 |
-| last180d | 2026-03-26 | 5 | 1 | 0 | 3 | 1 | 6 |
-| 360d | 2025-09-27 | 6 | 2 | 1 | 9 | 1 | 10 |
-| last720d | 2024-10-02 | 10 | 8 | 1 | 20 | 2 | 29 |
+| 30d | 2026-08-24 | 3 | 1 | 0 | 2 | 1 | 0 |
+| last60d | 2026-07-25 | 3 | 1 | 0 | 2 | 1 | 0 |
+| 90d | 2026-06-25 | 3 | 1 | 0 | 2 | 1 | 0 |
+| last180d | 2026-03-27 | 5 | 1 | 0 | 3 | 2 | 0 |
+| 360d | 2025-09-28 | 6 | 1 | 1 | 8 | 2 | 0 |
+| last720d | 2024-10-03 | 10 | 8 | 1 | 20 | 3 | 30 |
 
 ## 改进这些数据
 
@@ -61,4 +61,4 @@ asn 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:30:18Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:32:24Z._
