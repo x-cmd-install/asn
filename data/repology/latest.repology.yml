@@ -1,43 +1,3 @@
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: asn
-  binnames:
-    - asn
-  visiblename: asn
-  version: 0.78.0
-  origversion: 0.78.0-1
-  status: outdated
-  maintainers:
-    - marcosrcarvalho42@gmail.com
-  categories:
-    - misc
-- repo: homebrew
-  srcname: asn
-  visiblename: asn
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Organization lookup and server tool (ASN / IPv4 / IPv6 / Prefix / AS Path)
-- repo: kali_rolling
-  subrepo: main
-  srcname: asn
-  binnames:
-    - asn
-  visiblename: asn
-  version: 0.78.0
-  origversion: 0.78.0-1
-  status: outdated
-  maintainers:
-    - marcosrcarvalho42@gmail.com
-  categories:
-    - misc
-- repo: homebrew
-  srcname: asn
-  visiblename: asn
-  version: 0.83.0
-  origversion: null
-  status: newest
-  summary: Organization lookup and server tool (ASN / IPv4 / IPv6 / Prefix / AS Path)
 - repo: alpine_3_19
   subrepo: community
   srcname: asn
@@ -203,6 +163,46 @@
     - marcosrcarvalho42@gmail.com
   categories:
     - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: asn
+  binnames:
+    - asn
+  visiblename: asn
+  version: 0.78.0
+  origversion: 0.78.0-1
+  status: outdated
+  maintainers:
+    - marcosrcarvalho42@gmail.com
+  categories:
+    - misc
+- repo: homebrew
+  srcname: asn
+  visiblename: asn
+  version: 0.83.0
+  origversion: null
+  status: newest
+  summary: Organization lookup and server tool (ASN / IPv4 / IPv6 / Prefix / AS Path)
+- repo: homebrew
+  srcname: asn
+  visiblename: asn
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Organization lookup and server tool (ASN / IPv4 / IPv6 / Prefix / AS Path)
+- repo: kali_rolling
+  subrepo: main
+  srcname: asn
+  binnames:
+    - asn
+  visiblename: asn
+  version: 0.78.0
+  origversion: 0.78.0-1
+  status: outdated
+  maintainers:
+    - marcosrcarvalho42@gmail.com
+  categories:
+    - misc
 - repo: nix_stable_24_05
   srcname: asn
   visiblename: asn
@@ -270,7 +270,7 @@
   licenses:
     - MIT
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: asn
   binnames:
     - asn
@@ -283,7 +283,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: asn
   binnames:
     - asn
@@ -388,6 +388,19 @@
     - universe/misc
 - repo: ubuntu_26_10
   subrepo: stonking/universe
+  srcname: asn
+  binnames:
+    - asn
+  visiblename: asn
+  version: 0.78.0
+  origversion: 0.78.0-1build1
+  status: outdated
+  maintainers:
+    - marcosrcarvalho42@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: asn
   binnames:
     - asn
