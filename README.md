@@ -35,7 +35,7 @@ Total: **4,110** lines of code across **4** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,948 · **Forks**: 198 · **Open issues**: 73 · **Contributors**: 12
+- **Stars**: 1,949 · **Forks**: 198 · **Open issues**: 73 · **Contributors**: 12
 
 ## Totals (cumulative)
 
@@ -45,16 +45,16 @@ Total: **4,110** lines of code across **4** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-07 | 2 | 1 | 0 | 1 | 1 | 4 |
-| 90d | 2026-08-08 | 3 | 1 | 0 | 2 | 1 | 6 |
-| last180d | 2026-05-10 | 3 | 1 | 0 | 3 | 2 | 7 |
-| 360d | 2025-11-11 | 6 | 1 | 1 | 8 | 2 | 12 |
-| last720d | 2024-11-16 | 10 | 8 | 1 | 19 | 3 | 30 |
+| 30d | 2026-10-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-08 | 2 | 1 | 0 | 1 | 1 | 4 |
+| 90d | 2026-08-09 | 3 | 1 | 0 | 2 | 1 | 6 |
+| last180d | 2026-05-11 | 3 | 1 | 0 | 3 | 2 | 7 |
+| 360d | 2025-11-12 | 6 | 1 | 1 | 8 | 2 | 12 |
+| last720d | 2024-11-17 | 10 | 8 | 1 | 19 | 3 | 30 |
 
 ## Distribution status
 
-Reported by **33** distros on [repology.org](https://repology.org/project/asn). **2** are ✅ on the latest upstream release, **29** are ⚠️ on an older version.
+Reported by **34** distros on [repology.org](https://repology.org/project/asn). **2** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -63,7 +63,7 @@ Reported by **33** distros on [repology.org](https://repology.org/project/asn). 
 | Debian 13 | `0.78.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.78.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.75.3` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `0.83.0` | ✅ latest |
 | Nix unstable | `0.83.0` | ✅ latest |
 | Alpine edge | `0.81.1` | ⚠️ outdated |
 
@@ -76,4 +76,4 @@ Install metadata for asn lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:23:06Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:26:44Z._
