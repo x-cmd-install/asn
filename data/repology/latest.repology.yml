@@ -1,3 +1,29 @@
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: asn
+  binnames:
+    - asn
+  visiblename: asn
+  version: 0.78.0
+  origversion: 0.78.0-1
+  status: outdated
+  maintainers:
+    - marcosrcarvalho42@gmail.com
+  categories:
+    - misc
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
+  srcname: asn
+  binnames:
+    - asn
+  visiblename: asn
+  version: 0.78.0
+  origversion: 0.78.0-1build1
+  status: outdated
+  maintainers:
+    - marcosrcarvalho42@gmail.com
+  categories:
+    - universe/misc
 - repo: alpine_3_19
   subrepo: community
   srcname: asn
@@ -81,9 +107,9 @@
   srcname: asn
   binname: asn
   visiblename: asn
-  version: 0.81.1
-  origversion: 0.81.1-r0
-  status: outdated
+  version: 0.83.0
+  origversion: 0.83.0-r0
+  status: newest
   summary: ASN Lookup Tool and Traceroute Server
   maintainers:
     - fcolista@alpinelinux.org
@@ -152,19 +178,6 @@
     - misc
 - repo: deepin_25
   subrepo: community
-  srcname: asn
-  binnames:
-    - asn
-  visiblename: asn
-  version: 0.78.0
-  origversion: 0.78.0-1
-  status: outdated
-  maintainers:
-    - marcosrcarvalho42@gmail.com
-  categories:
-    - misc
-- repo: devuan_unstable
-  subrepo: unstable/main
   srcname: asn
   binnames:
     - asn
@@ -388,19 +401,6 @@
     - universe/misc
 - repo: ubuntu_26_10
   subrepo: stonking/universe
-  srcname: asn
-  binnames:
-    - asn
-  visiblename: asn
-  version: 0.78.0
-  origversion: 0.78.0-1build1
-  status: outdated
-  maintainers:
-    - marcosrcarvalho42@gmail.com
-  categories:
-    - universe/misc
-- repo: ubuntu_27_04
-  subrepo: tenacious/universe
   srcname: asn
   binnames:
     - asn
